@@ -1,0 +1,14 @@
+# Python bytecode и кэш
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Логи и временные файлы
+*.log
+*.sqlite3
+
+# Системные файлы и скрытые папки
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
